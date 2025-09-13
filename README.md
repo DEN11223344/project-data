@@ -77,11 +77,6 @@ Air-Quality-Prediction/
 - Training Notebook: `ML hackethon 6.0.ipynb`  
 - Saved Model: `model.pkl`  
 
----
-
-## 🎨 UI Screenshots
-
-(Add screenshots of your dashboard here for better presentation)
 
 ---
 
@@ -101,17 +96,12 @@ Contributions are welcome!
 2. Create a new branch (`feature-branch`)  
 3. Commit changes & push  
 4. Open a Pull Request  
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License. See `LICENSE` for details.  
+  
 
 ---
 
 ## 👨‍💻 Author
 
 - **Piyush Balode** – MSc Data Science Student, Fergusson College, Pune  
-- 📧 [Your Email]  
-- 🔗 [LinkedIn / Portfolio link]  
+- 📧 balodepiyush2493@gmail.com
+-  
